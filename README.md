@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning how to create pseudonymous identities and organize them.
 - 💞️ I'm always looking for ways to obtain KYC-free bitcoin.
 - 📫 You can reach me via DM at https://twitter.com/JackWhite411.
+- I am also on nostr at npub159fpnhzcwkk4dznzqrvzkamktc3y3phylv548defqxms0rnfnlzqqgqa9k.
